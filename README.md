@@ -157,4 +157,4 @@ Special thanks to all the contributors who continue to improve PinPointPro throu
 
 Built with ❤️ by the PinPointPro Community. Stay focused. Stay invincible.
 
-PinPointPro is a great community where can you learn, relearn and have opportunity of being part of a great Team.
+PinPointPro is a great community where you can learn, relearn, and have the opportunity to be part of a great team.
