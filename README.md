@@ -1,3 +1,31 @@
+# 🤝 My contributions to PinPointPro
+
+> **This repository is my fork of [raphgm/pinpointpro](https://github.com/raphgm/pinpointpro).** PinPointPro belongs to its author and contributors. I use this fork to prepare and submit contributions, and the original project README is kept below.
+
+## Merged pull requests
+
+| Pull request | What I changed | Merged |
+|---|---|---|
+| [#3](https://github.com/raphgm/pinpointpro/pull/3) `docs(contributors): add @rahimahisah17 - Phase 2 Project` | Added my entry to `CONTRIBUTORS.md` as a Phase 2 project contributor. | 2026-07-02 |
+| [#7](https://github.com/raphgm/pinpointpro/pull/7) `docs(readme): clarify browser prerequisites` | Clarified the browser requirement in the README by adding examples of modern browsers that support ES6 modules (Chrome, Edge, Firefox and Safari). | 2026-07-02 |
+
+## How I worked
+
+- Forked the repository and made each change on its own feature branch.
+- Checked each change locally with `git diff` before opening the pull request.
+- Opened each pull request with a description of what I changed, why it helps, and how I tested it.
+- Both pull requests were reviewed and approved by the maintainer.
+
+**What I learned:** how to collaborate on an open-source project.
+
+---
+
+## Original README
+
+*Everything below is the original project README from [raphgm/pinpointpro](https://github.com/raphgm/pinpointpro).*
+
+---
+
 # 📌 PinPointPro
 
 > **The Open-Source "Invincible UI" Window Manager & Productivity Surface.**
